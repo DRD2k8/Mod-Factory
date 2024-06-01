@@ -1,1 +1,3 @@
-# Mod Factory
+![](logo.png)
+
+# Introduction
