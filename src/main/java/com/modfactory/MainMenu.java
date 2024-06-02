@@ -12,7 +12,7 @@ public class MainMenu extends Application {
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(MainMenu.class.getResource("main-menu.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 1920, 1080);
-        stage.setTitle("Hello!");
+        stage.setTitle("Mod Factory");
         stage.setScene(scene);
         stage.show();
     }
